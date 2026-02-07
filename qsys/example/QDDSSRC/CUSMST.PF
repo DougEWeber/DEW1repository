@@ -16,3 +16,4 @@
      A            ZIP            5  0       TEXT('CUSTOMER ZIP CODE')
      A            ARBAL         10  2       TEXT('ACCOUNTS RECEIVABLE BALANCE')
      A            SPECIAL        1          TEXT('SPECIAL')
+     A            SPECIAL2       1          TEXT('SPECIAL2')
