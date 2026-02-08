@@ -1,0 +1,10 @@
+ctllib tgt
+
+lib SRC TGT {*pgm     *pf keepdata *cmd *dspf exclude qrpglesrc/*file
+                  exclude qcmdsrc/*file
+                  exclude qclsrc/*file
+                  exclude qtxtsrc/*file
+                  exclude qddssrc/*file
+                  exclude qsqlsrc/*file
+}
+file src tgt {*lf}
