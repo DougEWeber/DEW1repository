@@ -1,0 +1,18 @@
+Requisite Location Report
+Summary report:
+DEW1LIVE objects:
+    Objects with requisites in library DEW1LIVE: 8
+    Objects with requisites in library DEW1LIVE: 8
+
+Detail report:
+DEW1LIVE objects:
+    Objects with requisites in library DEW1LIVE:
+        *FILE PF        DEW1LIVE/CUSMST                     
+        *FILE LF        DEW1LIVE/CUSMSTL1                   
+        *FILE LF        DEW1LIVE/CUSMSTL2                   
+        *FILE LF        DEW1LIVE/CUSMSTL3                   
+        *FILE DSPF      DEW1LIVE/MAINMENU                   
+        *FILE DSPF      DEW1LIVE/MNTMENU                    
+        *FILE DSPF      DEW1LIVE/SCHNAMD                    
+        *FILE DSPF      DEW1LIVE/SCHZIPD                    
+End of Requisite Location Report.
