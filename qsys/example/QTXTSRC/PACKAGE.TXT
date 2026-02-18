@@ -1,3 +1,4 @@
+ctllib tgt
 lib srcf tgtf {*pf keepdata *lf
             }
 lib SRC TGT {*pgm *cmd *dspf *prtf
