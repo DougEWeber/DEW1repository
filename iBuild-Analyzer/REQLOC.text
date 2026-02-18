@@ -1,0 +1,35 @@
+Requisite Location Report
+Summary report:
+DEW1DATA objects:
+    Objects with requisites in library DEW1DATA: 3
+    Objects with requisites in library DEW1DATA: 3
+    Objects with requisites in library DEW1SRC: 4
+DEW1LIVE objects:
+    Objects with requisites in library DEW1LIVE: 0
+    Objects with requisites in library DEW1DATA: 3
+    Objects with requisites in library DEW1LIVE: 0
+    Objects with requisites in library DEW1SRC: 4
+
+Detail report:
+DEW1DATA objects:
+    Objects with requisites in library DEW1DATA:
+        *FILE LF        DEW1DATA/CUSMSTL1                   
+        *FILE LF        DEW1DATA/CUSMSTL2                   
+        *FILE LF        DEW1DATA/CUSMSTL3                   
+    Objects with requisites in library DEW1SRC:
+        *FILE PF        DEW1DATA/CUSMST                     
+        *FILE LF        DEW1DATA/CUSMSTL1                   
+        *FILE LF        DEW1DATA/CUSMSTL2                   
+        *FILE LF        DEW1DATA/CUSMSTL3                   
+DEW1LIVE objects:
+    Objects with requisites in library DEW1DATA:
+        *FILE DSPF      DEW1LIVE/MNTMENU                    
+        *FILE DSPF      DEW1LIVE/SCHNAMD                    
+        *FILE DSPF      DEW1LIVE/SCHZIPD                    
+    Objects with requisites in library DEW1LIVE:
+    Objects with requisites in library DEW1SRC:
+        *FILE DSPF      DEW1LIVE/MAINMENU                   
+        *FILE DSPF      DEW1LIVE/MNTMENU                    
+        *FILE DSPF      DEW1LIVE/SCHNAMD                    
+        *FILE DSPF      DEW1LIVE/SCHZIPD                    
+End of Requisite Location Report.

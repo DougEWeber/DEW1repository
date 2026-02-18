@@ -1,0 +1,27 @@
+Source Location Report
+Summary report:
+DEW1DATA objects:
+    Objects with source in library DEW1SRC: 4
+DEW1LIVE objects:
+    Objects with source in library DEW1SRC: 10
+
+Detail report:
+DEW1DATA objects:
+    Objects with source in library DEW1SRC:
+        *FILE LF        DEW1DATA/CUSMSTL1                   
+        *FILE PF        DEW1DATA/CUSMST                     
+        *FILE LF        DEW1DATA/CUSMSTL3                   
+        *FILE LF        DEW1DATA/CUSMSTL2                   
+DEW1LIVE objects:
+    Objects with source in library DEW1SRC:
+        *MODULE RPGLE   DEW1LIVE/CUSMAIN                    
+        *FILE DSPF      DEW1LIVE/MAINMENU                   
+        *MODULE RPGLE   DEW1LIVE/CUSMNT                     
+        *FILE DSPF      DEW1LIVE/MNTMENU                    
+        *MODULE RPGLE   DEW1LIVE/SCHNAM                     
+        *FILE DSPF      DEW1LIVE/SCHNAMD                    
+        *MODULE RPGLE   DEW1LIVE/SCHZIP                     
+        *FILE DSPF      DEW1LIVE/SCHZIPD                    
+        *PGM RPGLE      DEW1LIVE/SCHNAMRPG                  
+        *CMD            DEW1LIVE/CUSTMAINT                  
+End of Source Location Report.
