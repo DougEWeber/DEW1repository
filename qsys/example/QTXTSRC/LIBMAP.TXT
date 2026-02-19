@@ -1,0 +1,4 @@
+src DEW1POBJ
+srcf DEW1PDATA
+tgt DEW1LIVE
+tgtf  DEW1DATA
