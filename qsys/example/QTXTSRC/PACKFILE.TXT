@@ -1,0 +1,6 @@
+ctllib tgt
+file srcf tgtf {*pf *lf
+            }
+lib SRC TGT {*pgm *cmd *dspf *prtf
+
+}
